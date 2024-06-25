@@ -1,0 +1,24 @@
+{
+  "name": "IntNext Real Estate",
+  "short_name": "IntNext",
+  "description": "Get your luxurious, stylish, beautiful homes at IntNext, Elevate Your Living Experience: IntNext, Redefining Modern Living",
+  "dir": "ltr",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4285f4",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/index.html?start_url=standalone",
+  "scope": "/"
+}
